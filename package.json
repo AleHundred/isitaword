@@ -2,12 +2,10 @@
   "name": "isitaword",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://192.168.1.75:3000/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "oxford-dictionary": "^1.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
